@@ -1,2 +1,2 @@
 # MonoPongGame
-SimplePongGame
+Simple pong game created with monogame.
